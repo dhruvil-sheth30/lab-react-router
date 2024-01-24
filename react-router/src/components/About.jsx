@@ -1,8 +1,6 @@
-
-
-const About = () => {
-  return (
-    <h2 style={{color:"White",textAlign:"center"}}>About</h2>
+function About(){
+  return(
+      <p>ABOUT</p>
   )
 }
 
